@@ -3,6 +3,7 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 import pickle
+import plotly.express as px
 
 st.title("This is my flower predictor.")
 st.header("This is a great app.")
